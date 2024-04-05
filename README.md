@@ -26,11 +26,11 @@ To compile and run the program, follow these steps:
 2. Compile the program using a C compiler. For example:
     ```
     gcc main.c -o bus_management
-    ``
+    ```
 3. Run the compiled executable:
     ```
     ./bus_management
-    ``
+    ```
 
 
 ## Usage
