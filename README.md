@@ -24,10 +24,13 @@ To compile and run the program, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Compile the program using a C compiler. For example:
+   
     ```
     gcc main.c -o bus_management
     ```
-3. Run the compiled executable:
+    
+4. Run the compiled executable:
+   
     ```
     ./bus_management
     ```
@@ -43,6 +46,7 @@ The program expects two input files:
 1. `busses.txt`: Contains information about buses, with each line formatted as follows:
     `bus_number#date#time#origin#destination#price#capacity`
 2. `passengers.txt`: Contains information about passengers, with each line formatted as follows:
+
     `passenger_id#date#time#origin#destination`
 
    
